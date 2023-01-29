@@ -37,7 +37,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Practiced the use of Flexbox and semantic HTML. Used the <main> and <footer> HTML elements.
+Practiced the use of Flexbox and semantic HTML. Used the "main" and "footer" HTML elements.
 Also practiced using git commands to push from local environment to github.
 
 ```html
